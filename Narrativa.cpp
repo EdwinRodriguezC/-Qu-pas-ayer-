@@ -34,7 +34,7 @@ int main(){
         cout << "Este no es el Caesars Palace original. ¿El César vivió aquí?" << endl;
         cout << "Contesta la pregunta de Alan 🤣 " << endl;
         cout << "1 = SI, 2 = NO" << endl;
-        cin >> playName;
+        
          
     }
     else if (jugador == 3)
